@@ -10,6 +10,7 @@ AMO-blog
 
 ### 最新
 
+* [Nginx 服务器证书安装(转发http请求到https)](http://www.amoolee.cn/articles/2019/09/30/1569828901336.html)
 * [我在 GitHub 上的开源项目](http://www.amoolee.cn/my-github-repos)
 * [vue项目集成cas登陆！](http://www.amoolee.cn/cas)
 * [微服务开发概念](http://www.amoolee.cn/service)
